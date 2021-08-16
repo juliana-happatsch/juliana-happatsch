@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jhappatsch@gmail.com**
 
-- ⚡ Fun fact **I learned HTML and CSS to edit my Tumblr blog!**
+- ⚡ Fun fact: **I learned HTML and CSS only to edit my Tumblr blog and now I love it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
