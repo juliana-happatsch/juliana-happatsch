@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [juliana-happatsch.github.io](juliana-happatsch.github.io)
+- 👨‍💻 All of my projects are available at [juliana-happatsch.github.io](https://juliana-happatsch.github.io)
 
 - 📫 How to reach me **jhappatsch@gmail.com**
 
