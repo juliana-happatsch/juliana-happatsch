@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Juliana!</h1>
 <h3 align="center">A web development student</h3>
 
-- 🔭 I’m currently working **on creating a portfolio!**
+- 🔭 I’m currently working **new front-end projects!**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [juliana-happatsch.github.io](https://juliana-happatsch.github.io)
 
